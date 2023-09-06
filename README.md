@@ -38,6 +38,10 @@ To set up your local environment and get started with the project, you need to f
 
 5. Once the dependencies are installed, you can open the Jupyter Notebook file containing the project code and run the code cells to execute the project.
 
+
+# Usage
+This analysis provides useful insights for the pizza companies to set optimal prices and improve their sales strategies. Companies can use this information to understand customer preferences and adapt their pricing and product offerings accordingly. For instance, they can consider offering more chicken toppings, which are the most popular and adjust the pricing of their toppings to align with customer demand. Additionally, they can focus on promoting the most popular pizza variants such as meat lovers and double mix pizzas. Finally, it is essential for companies to keep an eye on their prices and the prices charged by their competitors to remain competitive in the market.
+
 # Features
   - The Random Forest Regression’s accuracy is 93% for the data. Also, the MAE score is very low, which means that it is the best model to choose when compared to the other two models.
   - In Decision Tree, this method is overfitted as it got more accuracy in train data and lower in test data.
