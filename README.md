@@ -2,7 +2,7 @@
 This project aims to forecast pizza prices using multiple linear regression, decision tree and random forest models. The project focuses on developing accurate prediction models by analyzing various factors such as diameter, topping, size, company, extra cheese, extra mushrooms and extra sauce. The data is pre-processed and analyzed to identify patterns and features that can be used to predict pizza prices accurately. The performance of the models is evaluated using standard regression metrics such as mean absolute error, mean squared error, root mean squared error, training score and testing score. The results of the project will be helpful for the pizza industry to predict prices accurately and make informed business decisions. 
 
 # Table of Contents
--  [General Info](<general-information>)
+-  [General Info](<#general-information>)
 -  [Technologies Used](#technologies-used)
 -  [Setup](https://pages.github.com/)
 -  [Features](https://pages.github.com/)
