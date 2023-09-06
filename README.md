@@ -47,7 +47,7 @@ To set up your local environment and get started with the project, you need to f
 This analysis provides useful insights for the pizza companies to set optimal prices and improve their sales strategies. Companies can use this information to understand customer preferences and adapt their pricing and product offerings accordingly. For instance, they can consider offering more chicken toppings, which are the most popular and adjust the pricing of their toppings to align with customer demand. Additionally, they can focus on promoting the most popular pizza variants such as meat lovers and double mix pizzas. Finally, it is essential for companies to keep an eye on their prices and the prices charged by their competitors to remain competitive in the market.
 
 # Project Status
-Project is: *complete
+Project is: Complete
 
 # Room for Improvement
 To further improve the forecasting of pizza prices using predictive analytics, several aspects can be considered. Firstly, incorporating additional features such as location, seasonality, customer demographics and promotional activities could enhance the accuracy of the models. Secondly, collecting more comprehensive and high-quality data from diverse sources and expanding the time period covered can provide a better understanding of the market. Exploring advanced modeling techniques like ensemble methods or deep learning algorithms could potentially improve prediction accuracy. Lastly, conducting thorough model evaluation and comparison using different performance metrics can validate the models and guide decision-making. By addressing these areas, the project can enhance its predictive capabilities and provide valuable insights for pricing strategies in the pizza industry.
