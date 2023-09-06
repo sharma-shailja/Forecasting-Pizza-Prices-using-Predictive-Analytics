@@ -49,5 +49,5 @@ This analysis provides useful insights for the pizza companies to set optimal pr
 # Project Status
 Project is: complete
 
-#Room for Improvement
+# Room for Improvement
 To further improve the forecasting of pizza prices using predictive analytics, several aspects can be considered. Firstly, incorporating additional features such as location, seasonality, customer demographics and promotional activities could enhance the accuracy of the models. Secondly, collecting more comprehensive and high-quality data from diverse sources and expanding the time period covered can provide a better understanding of the market. Exploring advanced modeling techniques like ensemble methods or deep learning algorithms could potentially improve prediction accuracy. Lastly, conducting thorough model evaluation and comparison using different performance metrics can validate the models and guide decision-making. By addressing these areas, the project can enhance its predictive capabilities and provide valuable insights for pricing strategies in the pizza industry.
